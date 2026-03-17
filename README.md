@@ -133,4 +133,4 @@ This project is inspired by the [Data Professor](https://www.youtube.com/@DataPr
 
 ## 👤 Author
 
-**Student Project** — Submitted: 16 March 2026 | Review: 17 March 2026
+**Vinay Kartheek Bathala** — Submitted For: SRM INSIDERS | SRMIST 2025-26
